@@ -2,8 +2,8 @@
 <root>
 	<Update appId="PacketLoss">
 		<Version>2.0.0.0</Version>
-		<Url>https://github.com/ravadon/PacketLoss/blob/main/PacketLoss.zip</Url>
-		<ZipFileName>PacketLoss.zip</ZipFileName>
+		<Url>https://github.com/ravadon/PacketLoss/blob/main/PacketLoss_2.0.0.0.zip</Url>
+		<ZipFileName>PacketLoss_2.0.0.0.zip</ZipFileName>
 		<ExeFileName>PacketLoss.exe</ExeFileName>
 		<Md5>5036de9c3bbc11ce1f09881202531f6f</Md5>
 		<Description>Initial update</Description>
