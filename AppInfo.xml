@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <root>
 	<Update appId="PacketLoss">
-		<Version>1.0.0.1</Version>
-		<Url>https://raw.githubusercontent.com/ravadon/PacketLoss/main/PacketLoss_1.0.0.1.zip</Url>
-		<ZipFileName>PacketLoss_1.0.0.1.zip</ZipFileName>
+		<Version>1.0.0.5</Version>
+		<Url>https://raw.githubusercontent.com/ravadon/PacketLoss/main/PacketLoss_1.0.0.5.zip</Url>
+		<ZipFileName>PacketLoss_1.0.0.5.zip</ZipFileName>
 		<ExeFileName>PacketLoss.exe</ExeFileName>
 		<Md5>5036de9c3bbc11ce1f09881202531f6f</Md5>
 		<Description>Initial update</Description>
